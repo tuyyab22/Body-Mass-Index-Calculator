@@ -1,0 +1,70 @@
+/* body {
+    padding: 25px;
+    background-color:white;
+    color: black;
+    font-size: 25px;
+  } */
+  
+  /* .dark-mode {
+    background-color: black;
+    color: white;
+  } */
+
+
+
+
+.container {
+    width: 340px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 70px;
+    background-color:cyan;
+    padding-left: 30px;
+    border-radius: 50px;
+   }
+   #height, #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+   }
+   #weight-guide{
+    margin-left: 75px;
+    margin-top: 25px;
+   }
+   #results{
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    margin-left: 70px;
+    margin-top: 20px;
+    color:black;
+   }
+   button{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: black;
+    color: #fff;
+    font-size: 25px;
+   }
+   h1{
+    padding-left: 15px;
+    padding-top: 25px;
+   }
+   h3{
+    padding-left: 14px;
+   }
+   .decoration-one {
+    background-color:white;
+    margin: 0;
+    border:0;
+    border-radius: 20px;
+    padding: 20px 40px;
+    font-weight: bold;
+}
+.decoration-one:hover {
+    background-color:yellow;
+
+}
